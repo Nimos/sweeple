@@ -1,0 +1,2 @@
+# sweeple
+wordle for discord
